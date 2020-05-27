@@ -16,11 +16,11 @@ Se requiere que la aplicación pueda:
  
 ###### NOTAS:
 El frontend de la apliación se deberá desarrollar utilizando Vue.
-EL backend deberá poder generar información de prueba utilizando las herramientas que provee laravel. 
+El backend deberá poder generar información de prueba utilizando las herramientas que provee laravel. 
 
 
 ### Cómo presentar la solución
-Cuando consideres que el problema está resuelto, debes subirlo a un repositorio de tu elección y enviarnos un mail a fsare@culturait.com.ar con el link de descarga, además podes agregar cualquier comentario que creas correspondiente.
+Cuando consideres que el problema está resuelto, debes subirlo a un repositorio de tu elección y enviarnos un mail a rgarcia@culturait.com.ar con el link de descarga, además podes agregar cualquier comentario que creas correspondiente.
 
 
 **Happy hacking!**
